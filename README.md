@@ -1,0 +1,2 @@
+# xamppTestBBS
+xamppでのBBSテスト用リポジトリ
