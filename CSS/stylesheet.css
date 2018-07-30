@@ -1,0 +1,107 @@
+#topKazu
+{
+        color:green;
+}
+#topKi
+{
+    color:#FFB600;
+}
+#topAiai
+{
+    color:blue;
+}
+header
+{
+    text-align: right;
+    padding: 60px;
+    height:120px;
+    background-color:#679d9f;
+    background-size:cover;
+    background-position: 20% 50%;
+    margin-bottom: 60px;
+    border-radius: 5px;
+}
+header a
+{
+    text-decoration:none;
+}
+header h1
+{
+    text-align: left;
+
+}
+header ul
+{
+    margin: 0;
+    list-style-type: none;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+header ul li
+{
+    display: inline-block;/*インラインとブロックの間の要素*/
+}
+
+/*うまくいかないli
+もうちょっと下にしたい*/
+.sns
+{
+    font-size:16px;
+    margin-bottom:0;
+    margin-right: 10px;
+}
+
+.menu
+{
+    vertical-align: top;
+    width:200px;
+    height:auto;
+    padding: 5px 5px;
+    margin:0px 0px;
+    background-color: #3f87ce;
+    border: solid 3px #3f87ce;
+    border-right:solid 3px #252A35;
+    border-bottom: solid 6px #311999;
+    box-shadow: 10px 25px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    display: inline-block;
+}
+
+
+body ul
+{
+    margin: 0;
+    list-style-type: none;
+    padding-right: 0;
+}
+
+main
+{
+    vertical-align: top;
+    padding-top: 0px;
+    padding-left: 25px;
+    display: inline-block;
+}
+
+
+/*うまくいかないふったー
+もうちょっと下にしたい*/
+footer
+{
+
+    background-color: #627842;
+    border-radius: 5px;
+
+}
+
+footer ul li
+{
+    font-size:14px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom:5px;
+    margin-right: 10px;
+}
+div .body{
+    display: inline-block;
+}
